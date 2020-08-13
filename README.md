@@ -37,3 +37,5 @@ myfastqs/
     └── sample3_R2.fastq.gz
 
 ```
+
+thank you 2020.08.15
